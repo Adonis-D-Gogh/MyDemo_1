@@ -5,5 +5,6 @@ class Add()
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
+		System.out.println("dev ╤юсп!");
 	}
 }
