@@ -5,5 +5,6 @@ class Add()
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
+		System.out.println("测试merge 这里是master独有!");
 	}
 }
